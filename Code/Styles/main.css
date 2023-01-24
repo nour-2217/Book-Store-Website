@@ -727,6 +727,7 @@ section{
 .footer .credit{
     border-top: var(--border);
     margin-top: 2rem;
+    margin-bottom: 2rem;
     padding:0 1rem;
     padding-top: 2.5rem;
     font-size: 2rem;
@@ -734,7 +735,7 @@ section{
     text-align: center;
 }
 
-.footer .credit span{
+.footer .credit a{
     color:var(--green);
 }
 
